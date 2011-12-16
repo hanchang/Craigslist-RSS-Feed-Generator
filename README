@@ -1,0 +1,5 @@
+Just made this in 30 min for my girlfriend who was looking for various translation gigs in various US cities.
+
+This ruby script generates an OPML file consisting of all the gigs that match the city and search query listed. You can then import the OPML file into Google's RSS Reader to get a list of all the gigs you're interested in, on demand and in real time!
+
+If I have time and there's sufficient interest I'll generalize it for other sections of Craigslist too, maybe even make it into a webapp for easier accessibility by the masses.
